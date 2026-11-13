@@ -9,11 +9,11 @@
  * Formato: 55 + DDD + número, somente dígitos.
  */
 const CONFIG = {
-  whatsapp: "551159461310", // TODO: validar se é WhatsApp de atendimento
+  whatsapp: "5511945524905", // TODO: validar se é WhatsApp de atendimento
   mensagemWhatsapp: "Olá! Conheci a Prime Star Quiro pelo site e gostaria de saber mais sobre os atendimentos e agendamentos.",
-  telefoneExibicao: "(11) 5946-1310",
-  telefoneLink: "+551159461310",
-  email: "marianadsquiropraxia@gmail.com",
+  telefoneExibicao: "(11) 94552-4905",
+  telefoneLink: "+5511945524905",
+  email: "primestarquiro@gmail.com",
   enderecoMapa: "Avenida Sapopemba, 12847, Jardim Adutora, São Paulo - SP, 03989-010",
 
   // Mostra a faixa "Proposta demonstrativa" no topo. Use false na versão final.
